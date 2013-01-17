@@ -1,4 +1,4 @@
 inbox-sweeper
 =============
 
-Automatically archive read unlabeled messages after x days in the inbox
+Google Apps script for Gmail to automatically archive read unlabeled messages after x days in the inbox.
